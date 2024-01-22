@@ -11,8 +11,3 @@ Here are the steps to set up a home lab for Elastic Stack Security Information a
 5. **Query and analyze the logs in the SIEM**: Finally, you can query and analyze the logs in the SIEM. You can create dashboards and establish security alerts to monitor your system ¹.
 
 This project is a great addition to your cyber security skillset and can be a valuable talking point for job interviews. Good luck! 🍀
-
-Source: Conversation with Bing, 22/01/2024
-(1) Setting Up a Home Lab for Elastic SIEM: A Step-by-Step Guide. https://medium.com/@christoff.elce/setting-up-a-home-lab-for-elastic-siem-a-step-by-step-guide-e85f3750eb25.
-(2) A Simple Elastic SIEM Lab - Medium. https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2.
-(3) Building a SIEM Home Lab with Elastic Part 1 — unicornsec. https://unicornsec.com/home/siem-home-lab-series-part-1.
